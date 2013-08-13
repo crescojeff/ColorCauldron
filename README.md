@@ -14,3 +14,4 @@ but is still fun to play with.  Operations include:
 4. Invert colors of the first parent image
 5. Saturate hues of the first parent image (reduce all color channel values besides those of the chosen chanel to zero)
 6. Convert RGB images to gray-scale
+7. Basic edge-detection
